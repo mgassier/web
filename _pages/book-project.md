@@ -1,3 +1,11 @@
+---
+permalink: /book-project/
+title: "Book Project"
+author_profile: true
+redirect_from: 
+  - /book-project.html
+---
+
 _Anatomies of Rebellion_ explains why insurgent groups adopt starkly different approaches to local power structures, and how those choices shape internal cohesion and command structures, battlefield performance, and postwar political orders. The book starts from a simple puzzle: groups that proclaim similar revolutionary ambitions often behave differently on the ground. Some co-opt chiefs, religious leaders, and municipal officials, while others attempt to replace or radically restructure them. What accounts for this divergence, and what does it do to the trajectory of rebel organizations and the course of war?
 
 The book develops a theory of rebel local engagement that explains when ideologically transformative projects are implemented and when rebels instead co-opt incumbents, and why these choices matter for cohesion, and effectiveness. Ideology sets broad objectives for how authority ought to be organized, but translation into practice depends on two mediating forces: shifting conflict pressures and the bargaining power of local elites. Under intense military strain or when entrenched authorities command strong social bases, even ideologically transformative movements may compromise with existing structures. Similarly, when rebel groups face local institutions and elites whose capacity for social control remains too high to be effectively challenged, they tend to prioritize expediency over doctrine, maintaining incumbent authorities and integrating them into rebel governance.
