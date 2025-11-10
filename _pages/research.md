@@ -13,7 +13,7 @@ This section covers two arcs of my research: conflict dynamics and women’s eco
 
 ## Publications
 
-**Addressing gender-based segregation through information: Evidence from a randomized experiment in the Republic of Congo**
+### Addressing gender-based segregation through information: Evidence from a randomized experiment in the Republic of Congo
 
 With Léa Rouanet and Lacina Traoré
 
@@ -23,7 +23,7 @@ Economic Development and Cultural Change 73, no. 1 (January 2024): 167–193.
 
 https://www.journals.uchicago.edu/doi/10.1086/726710
 
-**The profits of wisdom: The impact of a business support program in Tanzania**
+### The profits of wisdom: The impact of a business support program in Tanzania
 
 With Elena Bardasi, Markus Goldstein, and Alaka Holla
 
@@ -41,7 +41,7 @@ _Annuaire français de relations internationales 2023_: 303–317. Éditions Pan
 
 ## Working papers
 
-**Mitigating the impact of household expropriation on female entrepreneurship : Experimental evidence from Ghana**
+### Mitigating the impact of household expropriation on female entrepreneurship : Experimental evidence from Ghana
 
 With Francisco Campos, Adriana Conconi, Elwyn Davies, and Markus Goldstein
 
@@ -49,7 +49,7 @@ How do intrahousehold dynamics affect the investment of female entrepreneurs? Th
 
 _Policy Research Working Paper Series_ no. 11111. Washington, DC: The World Bank, 2025
 
-**Armed Groups’ Modes of Local Engagement and Post-Conflict (in)stability: Insights from the Ethiopian and Somali Civil Wars**
+### Armed Groups’ Modes of Local Engagement and Post-Conflict (in)stability: Insights from the Ethiopian and Somali Civil Wars
 
 What distinguishes post-war governments that succeed in establishing a stable political order and prevent recurring conflict from those that do not? This comparative study considers the specific threats that typically lead to the collapse of the post-conflict political order to offer new hypotheses on the conditions that affect post-war governments’ ability to sustainably restore stability. The threats considered include (i) fragmentation of the main actors in the conflict, (ii) inadequate demobilization, and (iii) enduring dependence of the post-war government on local brokers. Post-war regimes are more vulnerable to such risks after wars in which the dominant armed groups have established themselves by co-opting local power structures and drawing on existing socio-political networks, as this process redistributes power from the central to the local level. Empirically, this paper uses a novel dataset documenting the practices through which rebel groups may alter local power structures to highlight the connection between this wartime process of transformation and patterns of conflict recurrence. In addition, it contrasts the transition of the Tigray People’s Liberation Front from rebellion to government in Ethiopia in the 1990s with the trajectory of the armed movements in Somalia that also overthrew the incumbent military regime but then failed to establish a viable state.
 
@@ -57,7 +57,7 @@ WIDER Working Paper 2023/17 Helsinki: UNU-WIDER, 2023
 
 https://doi.org/10.35188/UNU-WIDER/2023/325-3
 
-**Leveraging social cohesion for development outcomes**
+### Leveraging social cohesion for development outcomes
 
 With Shreya Chatterjee and Nikolas Myint
 
@@ -67,7 +67,7 @@ Policy Research Working Paper Series no. 10417. Washington, DC: The World Bank, 
 
 https://www.socialcohesion.info/fileadmin/user_upload/Library/PDF/Leveraging_Social_Cohesion_for_Development_Outcomes.pdf
 
-**Gender and enterprise development in Sub-Saharan Africa: A review of constraints and effective Interventions**
+### Gender and enterprise development in Sub-Saharan Africa: A review of constraints and effective Interventions
 
 With Francisco Campos
 
