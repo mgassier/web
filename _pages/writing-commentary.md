@@ -1,3 +1,11 @@
+---
+permalink: /writing-commentary/
+title: "Writing & Commentary"
+author_profile: true
+redirect_from: 
+  - /writing-commentary.html
+---
+
 ## Print
 
 - The Conversation — Quelle paix pour le conflit le plus meurtrier au monde — January  2, 2023
