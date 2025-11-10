@@ -6,8 +6,6 @@ redirect_from:
   - /research.html
 ---
 
-{% include toc %}
-
 This section covers two arcs of my research: conflict dynamics and women’s economic empowerment.
 
 ## Publications
