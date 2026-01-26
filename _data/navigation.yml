@@ -17,8 +17,8 @@ main:
   - title: "Writing & Commentary"
     url: /writing-commentary/
         
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+   # url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
