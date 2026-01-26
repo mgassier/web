@@ -24,7 +24,7 @@ repository               : "mgassier/web"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Washington, DC"
