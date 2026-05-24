@@ -24,9 +24,9 @@ repository               : "mgassier/web"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : #"Your Sidebar Name"
+  name             : "Marine Gassier"
   pronouns         : # example: "she/her"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Political scientist studying rebel governance, wartime political transformations, and the institutional legacies of civil war. Social Development Specialist at the World Bank, working on conflict-sensitive project design."
   location         : "Washington, DC"
   employer         : #"World Bank"
   uri              : # URL
