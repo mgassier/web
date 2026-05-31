@@ -68,8 +68,6 @@ Female participation in entrepreneurial activities is higher in Sub-Saharan Afri
 
 ## Book review
 
-**Review of:** Christopher Clapham. _The Horn of Africa: State Formation and Decay._ London, Hurst & Company, 2017, 224 pages
-
 Review of: Christopher Clapham. *[The Horn of Africa: State Formation and Decay](https://shs.cairn.info/article/CRII_081_0203?tab=texte-integral)*. London, Hurst & Company, 2017, 224 pages.
 
 ## Select invited talks 
