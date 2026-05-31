@@ -36,6 +36,14 @@ How do rebel groups approach local power structures as they strive to assert ter
 
 ## Policy papers
 
+**Process Legitimacy and Development: Analytical Framings, Implications, and Applications**
+
+With Patrick Barron, Meltem Ikindji, and Michael Woolcock
+
+How social change is sought is central to ensuring not only that change happens but that it does so in ways perceived by those most affected by it to be legitimate, especially those who "lose." This paper expands on the prior concept of "process legitimacy" to provide an analytical framework identifying its key constituent elements and the mechanisms by which it is established, consolidated, challenged, and altered as part of the development process. The paper first outlines the drivers of process legitimacy, before developing a typology highlighting four levels at which legitimacy contests occur: between societal groups, between elite factions, between national and local authorities, and between national and global actors. This framework helps identify the risks development interventions face when they fail to navigate these contests effectively. The paper concludes by examining how development interventions can help societies overcome legitimacy contests by fostering constructive spaces for negotiation and facilitating the gradual emergence of shared understanding around legitimate goals and processes.
+
+[Policy Research Working Paper Series](https://openknowledge.worldbank.org/entities/publication/c4de9622-3e44-4c3e-bfb0-eea70e01df73) no. 11234. Washington, DC: The World Bank, 2025.
+
 ### Mitigating the impact of household expropriation on female entrepreneurship : Experimental evidence from Ghana
 
 With Francisco Campos, Adriana Conconi, Elwyn Davies, and Markus Goldstein
